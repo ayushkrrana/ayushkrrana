@@ -1,7 +1,7 @@
 <h1 align="center"> Ｉ＇ｍ&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
 ![Banner]
-(https://images.app.goo.gl/hjBckuyDZ6pKhsWg8                  ---)
+(https://images.app.goo.gl/hjBckuyDZ6pKhsWg8)
 <hr>
 <h1 align="center"><b> I am Android Developer 🤖</b></h3>
 
