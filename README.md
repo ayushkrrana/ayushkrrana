@@ -9,6 +9,7 @@
 <h3> My Skills  👱🏻‍♂️ :</h3>
 <ul>
  <li>𝗜 𝗮𝗺 Android Developer <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />.</li>
+ <li> Front End Developer (HTML5, CSS, JAVASCRIPT) 🌐</li>
   <li> I am Data Analyst & Knows about data management in Power BI 📊 </li>
  <li> I am C++ Programmer ⚡️ </li>
  <li> I am a video editor in Adobe Priemer Pro and Capcut PC  💻 </li>
@@ -82,6 +83,12 @@
 ## Skills ✨
 <p align="left">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />   
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />    
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
  
