@@ -50,7 +50,6 @@
 <p align='left'>
  <img src="https://img.shields.io/badge/Dell-007DB8.svg?style=for-the-badge&logo=Dell&logoColor=white" />
  <img src="https://img.shields.io/badge/AMD-Ryzen_5_6000-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img src="https://img.shields.io/badge/AMD-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img
         src="https://img.shields.io/badge/nvidia-rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
