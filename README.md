@@ -1,7 +1,7 @@
 <h1 align="center"> Ｉ＇ｍ&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
 ![Banner]
-https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif/
+(https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif\)
 <hr>
 <h1 align="center"><b> I am Android Developer 🤖</b></h3>
 
