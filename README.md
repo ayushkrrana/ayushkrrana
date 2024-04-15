@@ -1,6 +1,6 @@
 <h1 align="center"> Ｉ＇ｍ&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
-<img src="https://images.app.goo.gl/hjBckuyDZ6pKhsWg8"/>
+<img src="https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966"/>
 <hr>
 <h1 align="center"><b> I am Android Developer 🤖</b></h3>
 
