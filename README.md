@@ -1,7 +1,7 @@
 <h1 align="center"> Ｉ＇ｍ&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
 ![Banner]
-(https://www.google.com/imgres?imgurl=https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966&tbnid=cq0MNHqRxa3ApM&vet=1&imgrefurl=https://github.com/deepraj21&docid=qKvkd0kRYTtl9M&w=498&h=280&itg=1&hl=en&source=sh/x/im/m1/1&kgs=1dec21aee9e724e1&shem=abme,trie)
+<img src="https://www.google.com/imgres?imgurl=https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966&tbnid=cq0MNHqRxa3ApM&vet=1&imgrefurl=https://github.com/deepraj21&docid=qKvkd0kRYTtl9M&w=498&h=280&itg=1&hl=en&source=sh/x/im/m1/1&kgs=1dec21aee9e724e1&shem=abme,trie"/>
 <hr>
 <h1 align="center"><b> I am Android Developer 🤖</b></h3>
 
