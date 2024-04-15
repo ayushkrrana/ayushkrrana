@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3> My Skills  👱🏻‍♂️ </h3>
+<h3> My Skills  👱🏻‍♂️ :</h3>
 <ul>
  <li>𝗜 𝗮𝗺 Android Developer 🤖.</li>
   <li> I am Data Analyst & Knows about data management in Power BI 📊 </li>
