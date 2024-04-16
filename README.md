@@ -5,7 +5,7 @@
 <img width="5000px" src="https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966" style="display:block;margin-left: auto;
             margin-right: auto;"/>
 <hr>
-<h1 align="center"><b> I am Android Developer 🤖</b></h3>
+<h1 align="center"><b> I am <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white"/> Developer </b></h3>
 
 <hr>
 
