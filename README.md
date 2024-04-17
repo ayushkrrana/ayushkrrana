@@ -12,10 +12,10 @@
 <h3> My Skills  👱🏻‍♂️ :</h3>
 <ul>
  <li>𝗜 𝗮𝗺 Android Developer 📱.</li>
- <li> Front End Developer (HTML5, CSS3, JAVASCRIPT) 🌐</li>
-  <li> I am Data Analyst & Knows about data management in Power BI 📊 </li>
- <li> I am C++ Programmer ⚡️ </li>
- <li> I am a video editor in Adobe Priemer Pro and Capcut PC  💻 </li>
+ <li> Front End Developer (HTML5, CSS3, JAVASCRIPT) 🌐.</li>
+  <li> I am Data Analyst & Knows about data management in Power BI 📊. </li>
+ <li> I am C++ Programmer ⚡️.</li>
+ <li> I am a video editor in Adobe Priemer Pro and Capcut PC  💻. </li>
  <li>𝗜'𝗺 𝗰𝘂𝗿𝗶𝗼𝘂𝘀, 𝗮𝗻𝗱 𝗜 𝗲𝗻𝗷𝗼𝘆 𝘄𝗼𝗿𝗸 𝘁𝗵𝗮𝘁 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗺𝗲 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗻𝗲𝘄 🔍.</li> 
 
 <!--  <li></li>
