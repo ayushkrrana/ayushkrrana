@@ -20,7 +20,7 @@
 <hr>
 <h3> My Skills  👱🏻‍♂️ :</h3>
 <ul>
- <li>𝗜 𝗮𝗺 Android Developer 📱.</li>
+ <li>I am Android Developer 📱.</li>
  <li> Front End Developer (HTML5, CSS3, JAVASCRIPT) 🌐.</li>
   <li> I am Data Analyst & Knows about data management in Power BI 📊. </li>
  <li> I am C++ Programmer ⚡️.</li>
