@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋 , I'm&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
-<img width="3000px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="display:block;margin-left: auto;
+<img width="1000px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="display:block;margin-left: auto;
             margin-right: auto;"/>
 <hr>
 <h1 align="center"><b><img src="https://img.shields.io/badge/I%20Am-000000.svg?style=for-the-badge&logo=I-Am&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/%20Developer-E60012.svg?style=for-the-badge&logo=Developer&logoColor=white"/></b></h3>
