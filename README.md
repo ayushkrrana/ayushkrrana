@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi <img height="30px"src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>, I'm&nbsp;&nbsp;Ayush &nbsp;Kumar </h1>
  
-<img width="5000px" src="https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966" style="display:block;margin-left: auto;
+<img width="5000px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="display:block;margin-left: auto;
             margin-right: auto;"/>
 <hr>
 <h1 align="center"><b><img src="https://img.shields.io/badge/I%20Am-000000.svg?style=for-the-badge&logo=I-Am&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/%20Developer-E60012.svg?style=for-the-badge&logo=Developer&logoColor=white"/></b></h3>
