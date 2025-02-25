@@ -4,7 +4,7 @@
  
 <img width="1000px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="display:block;margin-left: auto;
             margin-right: auto;"/>
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h1 align="center"><b><img src="https://img.shields.io/badge/I%20Am-000000.svg?style=for-the-badge&logo=I-Am&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/%20Developer-E60012.svg?style=for-the-badge&logo=Developer&logoColor=white"/></b></h3>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
