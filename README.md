@@ -7,7 +7,7 @@
 <hr>
 <h1 align="center"><b><img src="https://img.shields.io/badge/I%20Am-000000.svg?style=for-the-badge&logo=I-Am&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/%20Developer-E60012.svg?style=for-the-badge&logo=Developer&logoColor=white"/></b></h3>
 
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> GSSOC(24) Badges 🪶</h1>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -16,8 +16,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
-</div>
-<hr>
+</div><br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3> My Skills  👱🏻‍♂️ :</h3>
 <ul>
  <li>I am Android Developer 📱.</li>
@@ -29,7 +29,7 @@
 
 <!--  <li></li>
  <li></li> -->
- </ul>
+ </ul> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ## Contact 📱
 <a href="mailto:ayushkrrana312@gmail.com">
@@ -37,7 +37,7 @@
 </a>&nbsp;&nbsp;
 
 <!-- </a>&nbsp;&nbsp; -->
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">?
 ## Profiles 🧒🏽
 <a href="https://github.com/ayushkrrana">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -53,7 +53,7 @@
 </a>&nbsp;&nbsp;
  -->
 
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## Workspace 💻
 <p align='left'>
@@ -65,7 +65,7 @@
    
 </p>
 
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages ⌨
 <p align="left">
@@ -78,7 +78,7 @@
 </p>
 </p>
 
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Others 🔍
 <p align="left">
@@ -89,6 +89,7 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 </p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Skills ✨
 <p align="left">
@@ -106,13 +107,9 @@
  
 </p>
 
-<hr>
-<hr>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexsubham&" alt="codexsubham" /></p>
-&nbsp;
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=codexsubham&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
 <img  src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </p>
