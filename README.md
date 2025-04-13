@@ -30,6 +30,8 @@
 <!--  <li></li>
  <li></li> -->
  </ul> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  ## Profile Hits [![HitCount](https://hits.dwyl.com/ayushkrrana/ayushkrrana.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ayushkrrana/ayushkrrana)
  
 ## Contact 📱
 <a href="mailto:ayushkrrana312@gmail.com">
