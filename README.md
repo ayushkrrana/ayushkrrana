@@ -32,6 +32,7 @@
  </ul> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Profile Hits ![](https://komarev.com/ghpvc/?username=ayushkrrana&color=green)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ## Contact 📱
 <a href="mailto:ayushkrrana312@gmail.com">
